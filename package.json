@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "drv-21": "^1.0.0"
+    "drv-21": "^1.0.1"
   }
 }
